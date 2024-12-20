@@ -31,7 +31,7 @@ Projet qui combine **React** en front, **Node.js Express** en back et, en ce qui
 ## 🎨 Centre d'intérêts:
 Ce qui m'anime lorsque je ne code pas:
 <ul>
-  <li>Danse (jazz et contemporaine) 💃</li>
+  <li>Danse 💃</li>
   <li>Randonnée ⛰️</li>
   <li>Sorties gourmandes et culturelles 🎭😋</li>
   <li>Puzzles 🧩</li>
